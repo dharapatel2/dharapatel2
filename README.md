@@ -2,7 +2,7 @@
 - 👀 I’m interested in watching movie
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on DEV C
-- 📫 How to reach me via email
+- 📫 How to reach me via email.
 
 <!---
 dharapatel2/dharapatel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
