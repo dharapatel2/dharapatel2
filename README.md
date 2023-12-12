@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dharapatel2
 - 👀 I’m interested in watching movie
 - 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on DEV C
+- 💞️ I’m looking to collaborate on DEV C.
 - 📫 How to reach me via email
 
 <!---
